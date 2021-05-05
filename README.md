@@ -14,3 +14,5 @@ Python programs on Computer System Architecture :<br />
 11. performing logic microoperation Selective complement set : selective_complement_set.py <br />
 12. Binary counter up : binary_counter_up.py <br />
 13. Binary counter down : binary_counter_down.py <br />
+<br />
+Note : some operations can be done using in-built modules in python .. but is based on pure logic 
